@@ -71,12 +71,12 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "NEXUS-AI",
+      "value": "MUKUDZEI-MD",
       "required": false 
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Pkdriller01",
+      "value": "LeeManLeeVibes",
       "required": false
     },
     "URL": {
@@ -111,7 +111,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "254794146821",
+      "value": "263777376864",
       "required": false
     },
     "WARN_COUNT": {
@@ -126,12 +126,12 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
-      "value": "1",
+      "value": "3",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTI_CALL": {
